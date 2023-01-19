@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning SwiftUI
 - ☕️ Turning coffee into iOS Apps
 - 💞️ Passionate about computer science
-- 📫 Reach me via linkedin.com/clara-alabert/
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/clara-alabert/)
+
+#### TECHNOLOGIES
+
+
 
 <!---
 claraalabert/claraalabert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
