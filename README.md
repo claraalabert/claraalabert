@@ -9,6 +9,11 @@
 
 #### TECHNOLOGIES
 
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40">
+
+
+<!---![Git-Icon-1788C](https://user-images.githubusercontent.com/56721025/213476304-7aaa255a-cf45-412a-b252-bd63c5f77eef.png)
+--->
 
 
 <!---
