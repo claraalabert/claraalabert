@@ -13,9 +13,11 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40">
 
 
-"talk is cheap, show me the code."
-- Linus Torvalds (creator of Linux OS)
+<pre>
 
+"talk is cheap, show me the code."
+-Linus Torvalds (creator of Linux OS)
+</pre>
 
 <!---!
 <img src="" width="40" height="40">
