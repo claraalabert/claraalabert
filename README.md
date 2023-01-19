@@ -7,14 +7,18 @@
 - 💞️ Passionate about computer science
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/clara-alabert/)
 
-#### TECHNOLOGIES
+#### TOOLS AND TECHNOLOGIES:
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40">
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" width="40" height="40"> <img src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png" width="40" height="40"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"> 
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40">
 
 
-<!---![Git-Icon-1788C](https://user-images.githubusercontent.com/56721025/213476304-7aaa255a-cf45-412a-b252-bd63c5f77eef.png)
+
+
+
+<!---!
+<img src="" width="40" height="40">
 --->
-
 
 <!---
 claraalabert/claraalabert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
