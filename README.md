@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @claraalabert
-- 👀 I’m interested in iOS development
+- 👩🏼‍💻 I’m an iOS developer
 - 🌱 I’m currently learning SwiftUI
 - ☕️ Turning coffee into iOS Apps
 - 💞️ Passionate about computer science
