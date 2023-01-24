@@ -3,8 +3,8 @@ import SoftwareDeveloper from 'claraalabert';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Clara Alabert';
-  title    = 'Software Engineer';
-  location = 'Girona';
+  title    = 'iOS Developer';
+  location = 'Girona, Spain';
 }
 
 class Skills extends SoftwareDeveloper {
