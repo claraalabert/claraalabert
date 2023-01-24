@@ -20,6 +20,10 @@
 </pre>
 
 
+<a href="https://github.com/claraalabert">
+   <img src="https://komarev.com/ghpvc/?username=claraalabert">
+</a>
+
 [![Linkedin: clara-alabert](https://img.shields.io/badge/-Clara_Alabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-alabert/)](https://www.linkedin.com/in/clara-alabert/)
 [![GitHub Clara](https://img.shields.io/github/followers/Clara?label=follow&style=social)](https://github.com/claraalabert)
 
