@@ -1,11 +1,27 @@
+```js
+import SoftwareDeveloper from 'claraalabert';
 
+class Bio extends SoftwareDeveloper {
+  name     = 'Clara Alabert';
+  title    = 'Software Engineer';
+  location = 'Girona';
+}
 
+class Skills extends SoftwareDeveloper {
+  languages  = ['Swift', 'Java'];
+  ide  = ['Xcode', 'VScode'];
+  frameworks = ['UIkit', 'SwiftUI'];
+}
+```
+
+<!--- ANTIC READ.ME
 - 👋 Hi, I’m @claraalabert
 - 👩🏼‍💻 I’m an iOS developer
 - 🌱 I’m currently learning SwiftUI
 - ☕️ Turning coffee into iOS Apps
 - 💞️ Passionate about computer science
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/clara-alabert/)
+--->
 
 #### TOOLS AND TECHNOLOGIES:
 
