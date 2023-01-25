@@ -41,7 +41,7 @@ struct Skills {
 </a>
 
 [![Linkedin: clara-alabert](https://img.shields.io/badge/-Clara_Alabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-alabert/)](https://www.linkedin.com/in/clara-alabert/)
-[![GitHub Clara](https://img.shields.io/github/followers/Clara?label=follow&style=social)](https://github.com/claraalabert)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/claraalabert)
 
 <!---!
 <img src="" width="40" height="40">
