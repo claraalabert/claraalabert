@@ -1,13 +1,13 @@
 ```js
 import SoftwareDeveloper from 'claraalabert';
 
-class Bio extends SoftwareDeveloper {
+struct Bio {
   name     = 'Clara Alabert';
   title    = 'iOS Developer';
   location = 'Girona, Spain';
 }
 
-class Skills extends SoftwareDeveloper {
+struct Skills {
   languages  = ['Swift', 'Java'];
   ide  = ['Xcode', 'VScode'];
   frameworks = ['UIkit', 'SwiftUI'];
