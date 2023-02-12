@@ -2,15 +2,15 @@
 import SoftwareDeveloper from 'claraalabert';
 
 struct Bio {
-  name     = 'Clara Alabert';
-  title    = 'iOS Developer';
-  location = 'Girona, Spain';
+  name     = "Clara Alabert";
+  title    = "iOS Developer";
+  location = "Girona, Spain";
 }
 
 struct Skills {
-  languages  = ['Swift', 'Java'];
-  ide  = ['Xcode', 'VScode'];
-  frameworks = ['UIkit', 'SwiftUI'];
+  languages  = ["Swift", "Java"];
+  ide  = ["Xcode", "VScode"];
+  frameworks = ["UIkit", "SwiftUI"];
 }
 ```
 
