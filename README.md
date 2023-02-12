@@ -1,5 +1,5 @@
 ```js
-import SoftwareDeveloper from 'claraalabert';
+import SoftwareDeveloper from "claraalabert";
 
 struct Bio {
   name     = "Clara Alabert";
