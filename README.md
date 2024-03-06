@@ -9,7 +9,7 @@ struct Bio {
 
 struct Skills {
   languages  = ["Swift", "Java"];
-  ide  = ["Xcode", "VScode"];
+  ide        = ["Xcode", "VScode"];
   frameworks = ["UIkit", "SwiftUI"];
 }
 ```
