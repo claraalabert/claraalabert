@@ -8,7 +8,7 @@ struct Bio {
 }
 
 struct Skills {
-    let language = "Swift"
+    let language: String = "Swift"
     let ide: String = "Xcode"
     let frameworks: [String] = ["UIKit", "SwiftUI"]
 }
