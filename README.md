@@ -34,7 +34,7 @@ let skills = Skills()
 
 <pre>
 
-"talk is cheap, show me the code."
+"talk is cheap, show me the code"
 -Linus Torvalds (creator of Linux OS)
 </pre>
 
