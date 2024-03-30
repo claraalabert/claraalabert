@@ -1,17 +1,20 @@
 ```js
-import SoftwareDeveloper from "claraalabert";
+import SoftwareDeveloper
 
 struct Bio {
-  name     = "Clara Alabert";
-  title    = "iOS Developer";
-  location = "Girona, Spain";
+    let name: String = "Clara Alabert"
+    let title: String = "iOS Developer"
+    let location: String = "Girona, Spain"
 }
 
 struct Skills {
-  languages  = ["Swift", "Java"];
-  ide        = ["Xcode", "VScode"];
-  frameworks = ["UIkit", "SwiftUI"];
+    let languages: [String] = ["Swift", "Java"]
+    let ide: [String] = ["Xcode", "VScode"]
+    let frameworks: [String] = ["UIKit", "SwiftUI"]
 }
+
+let bio = Bio()
+let skills = Skills()
 ```
 
 <!--- ANTIC READ.ME
