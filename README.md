@@ -3,6 +3,7 @@ import SoftwareDeveloper
 
 struct Bio {
     let name: String = "Clara Alabert"
+    let name: String = "iOS Developer"
     let title: String = "iOS Developer"
     let location: String = "Girona, Spain"
 }
