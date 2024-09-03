@@ -13,8 +13,8 @@ struct Skills {
     let frameworks: [String] = ["UIKit", "SwiftUI"]
 }
 
-let bio = Bio()
-let skills = Skills()
+let myBio = Bio()
+let mySkills = Skills()
 ```
 
 <!--- ANTIC READ.ME
